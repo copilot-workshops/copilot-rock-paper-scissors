@@ -91,3 +91,5 @@ This will help us improve the workshop and the GitHub Copilot experience and als
 
 <img width="1059" alt="Rock Paper Scissors image" src="./assets/Rock Paper Scissors image.png">
 
+
+<img width="1059" alt="Rock Paper Scissors Lizard Spock image" src="./assets/RockPaperScissorsLizardSpock.jpg">
