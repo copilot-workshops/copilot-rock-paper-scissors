@@ -2,7 +2,7 @@
 
 ## Build a Rock, Paper, Scissors game from scratch with GitHub Copilot
 
-<img width="400" alt="Rock Paper Scissors image" src="./assets/Rock Paper Scissors image.png">
+![Rock Paper Scissors image](./assets/game.jpeg)
 
 In this fun workshop, you will learn how to use GitHub Copilot to build a simple game in Python, with little to no coding experience required.
 
