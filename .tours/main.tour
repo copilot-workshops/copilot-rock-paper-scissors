@@ -14,7 +14,7 @@
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\nPress __ENTER__ to create a new line and and click on insert code\n```python\n# import random module\n```\npress __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
+      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\nPress __ENTER__ to create a new line and and click on insert code\n```python\n# import random module\n```\nPress __ENTER__ to create a new line \npress now __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
     },
     {
       "file": "main.py",
