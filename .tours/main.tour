@@ -38,7 +38,7 @@
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your main.py file. It should start the rock, paper, scissors game. \n\n>> python3 main.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your main.py file. It should start the rock, paper, scissors game. \n\n>> python main.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
     }
   ],
   "ref": "main"

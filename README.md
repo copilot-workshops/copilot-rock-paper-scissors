@@ -6,11 +6,20 @@
 
 In this fun workshop, you will learn how to use GitHub Copilot to build a simple game in Python, with little to no coding experience required.
 
-Estimated time to complete: `10 to 60 minutes`
+Estimated time to complete: `10 to 60 minutes` ( depends on the participant's experience and the time available :)
 
-Participants will be guided to install the GitHub Copilot VS Code extension, follow a CodeTour to learn how to interact with GitHub Copilot, and then use GitHub Copilot to build a Rock, Paper, Scissors game from scratch. 
+Participants will be guided :
+- to install the GitHub Copilot VS Code extension
+- follow a CodeTour to learn how to interact with GitHub Copilot
+- use GitHub Copilot to build a Rock, Paper, Scissors game from scratch. 
 
-Depending on the time available, participants will be able to complete the game or just get started, from a simple version all the way to introducing additional logic to make the game more interesting complete, with unit tests and REST API endpoints.
+__or__ 
+
+Launch codespace direcly on their browser and use the CodeTour to learn how to interact with GitHub Copilot and build a Rock, Paper, Scissors game from scratch.
+
+### Time workshop
+Depending on the time available, participants will be able to complete the game or just get started, 
+from a simple version all the way to introducing additional logic to make the game more interesting complete, with unit tests and REST API endpoints.
 
 
 
@@ -28,7 +37,8 @@ Filename | Description
 
 ## Running a workshop?
 
-If you're planning to run a GitHub Copilot workshop, please review the [workshop guide](</.instructions/workshop organisers.md>) for tips and tricks to help you run a successful workshop. 
+If you're planning to run a GitHub Copilot workshop, 
+Please review the [workshop guide](</.instructions/workshop organisers.md>) for tips and tricks to help you run a successful workshop. 
 
 
 ## Project Structure
@@ -42,8 +52,6 @@ In this project you will find:
 * a `.tours` folder that includes the CodeTour file if you wish to use it.
 
 
-
-
 ## FAQ 
 
 - **How do I get a GitHub Copilot license?**
@@ -55,10 +63,6 @@ In this project you will find:
 
 ## Acknowledgements
 
-A special thanks to the following awesome Hubbers who have contributed in many different ways to our workshops. 
-[blackgirlbytes](https://github.com/blackgirlbytes), [pierluigi](https://github.com/pierluigi), [yuichielectric](https://github.com/yuichielectric), [dchomh](https://github.com/dchomh), [nolecram](https://github.com/nolecram), [rsymo](https://github.com/rsymo), [damovisa](https://github.com/damovisa) and anyone else I've inadvertently missed.
+Fork from this repository 
 
-Enjoy your workshop!
-[anthonyborton](https://github.com/anthonyborton)
-
-_v1.0 Released May, 2023_
+_v1.1 Released May, 2023_ updated February
