@@ -15,7 +15,7 @@ Participants will be guided :
 
 __or__ 
 
-Launch codespace direcly on yout browser , you don't have to install something in your laptop.
+Launch codespace direcly on yout browser , you don't have to install anything in your laptop.
 
 
 You will use the CodeTour to learn how to interact with GitHub Copilot and build a Rock, Paper, Scissors game from scratch.
@@ -53,7 +53,7 @@ In this project you will find:
 * an `.instructions` folder all the instructions for this workshop.
 * an `assets` folder containing images used in this workshop documentation.
 * a `.tours` folder that includes the CodeTour file if you wish to use it.
-
+* a `python` notebook to experiment with GitHub Copilot in Jupyter notebook (optional) ( inside [notebook](dalle-3/rockdalle3.ipynb) folder)
 
 ## FAQ 
 
