@@ -54,6 +54,7 @@ In this project you will find:
 * an `assets` folder containing images used in this workshop documentation.
 * a `.tours` folder that includes the CodeTour file if you wish to use it.
 * a `python` notebook to experiment with GitHub Copilot in Jupyter notebook (optional) ( inside [notebook](dalle-3/rockdalle3.ipynb) folder)
+- a `dalle-3` folder that includes a notebook python to experiment AzureopneAi / dalle3 in context wit the game rock paper scissors (optional) ( inside [notebook](dalle-3/rockdalle3.ipynb) folder)
 
 ## FAQ 
 
