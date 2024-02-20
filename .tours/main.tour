@@ -14,12 +14,12 @@
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n\n```python\n# import random module\n```\n\n\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\n\nPress __Next__ to to get continue 👇"
+      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\nPress __ENTER__ to create a new line and and click on insert code\n```python\n# import random module\n```\n\nPress __ENTER__ to create a new line \n\nPress now __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
     },
     {
       "file": "main.py",
       "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n\n```python\n# define main function that handles all the logic\n```\n\n\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see another code suggestion.\n\n\n[Open the Copilot suggestions panel](command:github.copilot.generate) and choose the suggestion that seems more appropriate (usually the first).\n\nPress `Next` to to get continue 👇",
+      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n\nPress ___ENTER to insert a new line\n\nClick insert code\n\n```python\n# define main function that handles all the logic\n```\n\nInsert a newline press __ENTER__\n\n Press __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see another code suggestion.\n\n\n[Open the Copilot suggestions panel](command:github.copilot.generate) and choose the suggestion that seems more appropriate (usually the first).\n\nYou have to click on \"Accept solution\" at the top of the selected solution\n\nPress `Next` to to get continue 👇",
       "selection": {
         "start": {
           "line": 8,
@@ -34,11 +34,11 @@
     {
       "file": "main.py",
       "line": 64,
-      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n\n```python\n# call main function\n``` \n\n\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n\n```python\n# call main function\n``` \n\n\nPress __ENTER__ to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your main.py file. It should start the rock, paper, scissors game. \n\n>> python3 main.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your main.py file. It should start the rock, paper, scissors game. \n\n>> python main.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
     }
   ],
   "ref": "main"
